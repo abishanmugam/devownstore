@@ -1,0 +1,9 @@
+// include taiwind directories
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// imports
+@import 'mixins';
+@import 'fonts';
+@import 'globals';
